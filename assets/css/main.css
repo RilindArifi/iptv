@@ -2165,7 +2165,7 @@ blockquote {
 
 /*--------------- INDEX-1 PAGE HEADER STYLES---------------*/
 .header-banner-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://dropletweb.com/nafiab/assets/img/bg/banner.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://i2.wp.com/mirasat.org/wp-content/uploads/2017/02/SLIDE_01.jpg?fit=1920%2C1000&ssl=1);
   background-position: center center;
   background-size: cover;
 }
@@ -3400,7 +3400,7 @@ blockquote {
 
 /*--------------- INDEX-1 PAGE CTA/NEWSLETTER STYLES---------------*/
 #nws-section {
-  background-image: url(../img/bg/cta-2.jpg);
+  background-image: url(https://dropletweb.com/nafiab/assets/img/bg/cta-2.jpg);
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   #nws-section {
@@ -5363,7 +5363,7 @@ blockquote {
 
 /*--------------- INDEX-1 PAGE FOOTER STYLES---------------*/
 #footer-section {
-  background: url(../img/bg/footer-2.jpg) no-repeat center center;
+  background: url(https://dropletweb.com/nafiab/assets/img/bg/footer-2.jpg) no-repeat center center;
   background-size: cover;
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
