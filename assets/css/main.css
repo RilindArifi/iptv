@@ -3982,6 +3982,7 @@ blockquote {
 }
 .single-stream__img {
   margin-bottom: 26px;
+  height: 250px;
 }
 .single-stream__title {
   font-size: 22px;
