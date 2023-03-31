@@ -1080,7 +1080,7 @@ textarea:focus::placeholder {
 }
 
 .pt-120 {
-  padding-top: 120px;
+  padding-top: 190px;
 }
 
 .pt-125 {
@@ -1240,7 +1240,7 @@ textarea:focus::placeholder {
 }
 
 .pb-120 {
-  padding-bottom: 120px;
+  padding-bottom: 50px;
 }
 
 .pb-125 {
@@ -2754,6 +2754,7 @@ blockquote {
 .feature-list-space-top {
   margin-top: -150px;
   position: relative;
+  bottom: -115px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
