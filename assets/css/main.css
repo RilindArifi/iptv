@@ -195,7 +195,7 @@ ul {
 p {
   font-family: "Jost", sans-serif;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 28px;
   color: var(--clr-body-text);
 }
@@ -3811,7 +3811,7 @@ blockquote {
 .ba-pricing-box-count {
   font-size: 34px;
   font-weight: 500;
-  color: var(--clr-common-white);
+  color: var(--clr-theme-primary);
 }
 .ba-pricing-box-count span {
   font-size: 20px;
